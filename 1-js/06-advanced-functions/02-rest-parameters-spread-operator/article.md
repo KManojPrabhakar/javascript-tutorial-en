@@ -225,7 +225,6 @@ But there's a subtle difference between `Array.from(obj)` and `[...obj]`:
 
 So, for the task of turning something into an array, `Array.from` tends to be more universal.
 
-
 ## Summary
 
 When we see `"..."` in the code, it is either rest parameters or the spread operator.
